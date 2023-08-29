@@ -1,0 +1,19 @@
+{
+  "name": "vue-fingers",
+  "version": "1.0.0",
+  "description": "A vue directive library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderLgee/vue-directive.git"
+  },
+  "author": "inwind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderLgee/vue-directive/issues"
+  },
+  "homepage": "https://github.com/coderLgee/vue-directive#readme"
+}
